@@ -37,8 +37,6 @@ Train a Deep-Q agent that reliably lands the rocket in Gymnasium’s **LunarLand
 | **tqdm** _(optional)_                           | Progress bar                                   | —                 |
 | **Box2D 2.3.10**                                | Physics engine (pre‑built arm64 wheels)        | —                 |
 
-> **macOS M‑series note:** use the maintained **`Box2D`** wheel. The legacy `box2d‑py` fails on Python 3.11 arm64.
-
 ---
 
 ## Further reading and documentation
@@ -51,10 +49,10 @@ Train a Deep-Q agent that reliably lands the rocket in Gymnasium’s **LunarLand
 
 ## Demonstration
 
-[VIDEO IN PROGRESS]
+[Check the model performance as it progress its training!](https://youtu.be/l5ZGZeFIHQU)
 
 ---
 
 ## License
 
-MIT — fork it, tweak it, land rockets. 🚀
+Apache License.
